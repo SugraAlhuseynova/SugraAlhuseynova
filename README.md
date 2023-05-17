@@ -15,7 +15,8 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/s_alhsynva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/s_alhsynva" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugraalhuseynova&show_icons=true&locale=en&layout=compact" alt="sugraalhuseynova" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugraalhuseynova&" alt="sugraalhuseynova" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugraalhuseynova&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sugraalhuseynova" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugraalhuseynova&show_icons=true&locale=en" alt="sugraalhuseynova" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugraalhuseynova&show_icons=true&theme=tokyonight&locale=en" alt="sugraalhuseynova" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugraalhuseynova&theme=highcontrast" alt="sugraalhuseynova" /></p>
