@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Sugra.;I'm+software+developer+and+instructor.)](https://git.io/typing-svg)
 ---
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw2cRG53mGq8WhMQ3tZtW89H&ust=1684413315251000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDwrdyu_P4CFQAAAAAdAAAAABAE">
 
 - 👨‍💻 All of my projects are available at [https://github.com/SugraAlhuseynova?tab=repositories](https://github.com/SugraAlhuseynova?tab=repositories)
 
