@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sugra</h1>
 <h3 align="center">A passionate .NET developer</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Mahammad.;I'm+software+developer+and+instructor.)](https://git.io/typing-svg)
+---
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 - 👨‍💻 All of my projects are available at [https://github.com/SugraAlhuseynova?tab=repositories](https://github.com/SugraAlhuseynova?tab=repositories)
 
 - 📫 How to reach me **sugra.alhuseynova@gmail.com**
